@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="restaurants">Restaurantes</string>
+    <string name="beaches">Praias</string>
+    <string name="gymnasiums">Ginásios</string>
+    <string name="vegan_vegerarian">Vegan e Vegetariano</string>
+    <string name="portuguese_food">Comida Portuguesa</string>
+    <string name="seafood">Marisco</string>
+    <string name="address">Endereço</string>
+</resources>

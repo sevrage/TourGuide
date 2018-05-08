@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name" translatable="false">Tour Guide Espinho</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="beaches">Beaches</string>
+    <string name="gymnasiums">Gyms</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="vegan_vegerarian">Vegan and Vegetarian</string>
+    <string name="grao_de_soja" translatable="false">Grão de Soja</string>
+    <string name="website_grao_de_soja" translatable="false">https://www.facebook.com/graodesojaespinho</string>
+    <string name="terra_viva" translatable="false">Terra Vida</string>
+    <string name="website_terra_viva" translatable="false">https://www.facebook.com/Terra-Viva-183808471762354/</string>
+    <string name="baliza" translatable="false">Baliza</string>
+    <string name="website_baliza" translatable="false">https://www.facebook.com/Restaurante-Baliza-202333663138337</string>
+    <string name="portuguese_food">Portuguese food</string>
+    <string name="seafood">Seafood</string>
+    <string name="a_cabana" translatable="false">A Cabana</string>
+    <string name="website_a_cabana" translatable="false">https://www.facebook.com/cabana.apulia</string>
+    <string name="aquario" translatable="false">Aquário</string>
+    <string name="website_aquario" translatable="false">https://www.facebook.com/aquario.espinho</string>
+    <string name="terminal_8" translatable="false">Terminal 8</string>
+    <string name="website_terminal_8" translatable="false">https://www.facebook.com/Terminaloito</string>
+    <string name="website_a_fornalha" translatable="false">https://www.facebook.com/afornalharestaurante</string>
+    <string name="a_fornalha" translatable="false">A Fornalha</string>
+    <string name="hora_h" translatable="false">Hora H</string>
+    <string name="burguer_food" translatable="false">Burguers</string>
+    <string name="website_hora_h" translatable="false">https://www.facebook.com/horah.espinho</string>
+    <string name="address_grao_de_soja" translatable="false">Rua 23, 760</string>
+    <string name="address_terra_viva" translatable="false">Rua 27, 715</string>
+    <string name="address_baliza" translatable="false">Rua 8, 471</string>
+    <string name="address_a_cabana" translatable="false">Lugar de Cedovém, Apúlia</string>
+    <string name="address_aquario" translatable="false">Rua 4, 540</string>
+    <string name="address_hora_h" translatable="false">Rua 6, 709</string>
+    <string name="address_terminal_8" translatable="false">Avenida 8, 774</string>
+    <string name="address_a_fornalha" translatable="false">Rua 38, 771</string>
+    <string name="espinho" translatable="false">Espinho</string>
+    <string name="praia_espinho" translatable="false">Praia de Espinho</string>
+    <string name="praia_paramos" translatable="false">Praia de Paramos</string>
+    <string name="praia_baia" translatable="false">Praia da Baía</string>
+    <string name="praia_marbelo" translatable="false">Praia Marbelo</string>
+    <string name="praia_pescadores" translatable="false">Praia dos Pescadores</string>
+    <string name="address_praia_pescadores" translatable="false">Rua Diogo Cao, Esmoriz 3885-512</string>
+    <string name="address_praia_marbelo" translatable="false">Anta, Espinho 4500</string>
+    <string name="address_praia_baia" translatable="false">Rua 2, Espinho 4500-449</string>
+    <string name="place_espinho" translatable="false">Place Espinho</string>
+    <string name="website_place_espinho" translatable="false">https://www.facebook.com/placeespinho</string>
+    <string name="address_place_espinho" translatable="false">Rua 19, 1153 - Anta</string>
+    <string name="victoria_gym" translatable="false">Victoria Gym</string>
+    <string name="address_victoria_gym" translatable="false">Rua 62, 402</string>
+    <string name="website_victoria_gym" translatable="false">https://www.facebook.com/victoriagymespinho</string>
+    <string name="progresso_fitness_academy" translatable="false">Progresso Fitness Academy</string>
+    <string name="address_progresso" translatable="false">Rua 33, 232</string>
+    <string name="website_progresso" translatable="false">https://www.facebook.com/progressofa</string>
+    <string name="ginasio_ativa" translatable="false">Ginásio Ativa</string>
+    <string name="address_ginasio_ativa" translatable="false">Rua 62, 219</string>
+    <string name="website_ginasio_ativa" translatable="false">https://www.facebook.com/ginasioactiva</string>
+    <string name="website_fitbox" translatable="false">https://www.facebook.com/FitBoxEspinho</string>
+    <string name="website_esmoriz" translatable="false">https://www.facebook.com/esmorizgc</string>
+    <string name="address_esmoriz" translatable="false">Rua dos Desportos, 220 - Esmoriz</string>
+    <string name="esmoriz_ginasio_clube" translatable="false">Esmoriz Ginásio Clube</string>
+    <string name="fitbox" translatable="false">FitBox</string>
+    <string name="onfit" translatable="false">OnFit</string>
+    <string name="address_onfit" translatable="false">Rua 28, 612</string>
+    <string name="address_fitbox" translatable="false">Rua 20, 1107</string>
+    <string name="website_onfit" translatable="false">https://www.facebook.com/onfitginasio</string>
+    <string name="website" translatable="false">Website</string>
+    <string name="address">Address</string>
+    <string name="bars" translatable="false">Bars</string>
+    <string name="wish" translatable="false">Wish You Were Here</string>
+    <string name="address_wish" translatable="false">Rua 14, 804</string>
+    <string name="website_wish" translatable="false">https://www.facebook.com/wishespinho</string>
+    <string name="aldeao_bar" translatable="false">Aldeão Bar</string>
+    <string name="address_aldeao_bar" translatable="false">Rua Pedreiras nº353</string>
+    <string name="website_aldeao_bar" translatable="false">https://www.facebook.com/aldeaobar</string>
+    <string name="baia_sunset" translatable="false">Baía SUNSET</string>
+    <string name="address_baia_sunset" translatable="false">Rua 6</string>
+    <string name="website_baia_sunset" translatable="false">https://www.facebook.com/baiasunset</string>
+    <string name="denisov_cafe" translatable="false">Denisov Café</string>
+    <string name="website_denisov" translatable="false">https://www.facebook.com/DenisovCafe</string>
+    <string name="address_denisov" translatable="false">Rua 12, 589</string>
+    <string name="rochas_bar" translatable="false">Rocha\'s Bar</string>
+    <string name="address_rochas" translatable="false">Largo da lapa</string>
+    <string name="website_rochas" translatable="false">https://www.facebook.com/rochassnackba</string>
+    <string name="ruamachines" translatable="false">Ruamachines</string>
+    <string name="address_ruamachines" translatable="false">Avenida D. Fernando R. R., 654</string>
+    <string name="website_ruamachines" translatable="false">https://www.facebook.com/ruamachines</string>
+    <string name="praia_frente_azul">Praia Frente Azul</string>
+</resources>
